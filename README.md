@@ -1,1 +1,3 @@
+# About Me
+
 I'm a former culinary professional who accidentally grew a passion for software development. After tinkering with JavaScript tutorials online to keep myself busy on days off, I decided to take the full plunge into the world of problem solving and software engineering. The same way I worked with clean and meticulous intention in the kitchen is the way I like to work when coding. When starting out, I thought JavaScript was going to be my main favorite language, but after learning Python, I now have two favorite languages. The main frameworks I love working with are Flask, React, and Express.
